@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "model_name": "llava-interleave-qwen-7b_lora-True_qlora-True",
+    "timestamp": "20241027_182933",
+    "num_samples": 12
+  },
+  "results": [
+    {
+      "study_id": "s50051329",
+      "ground_truth": "Lateral view somewhat limited due to overlying motion artifact. The lungs are low in volume. There is no focal airspace consolidation to suggest pneumonia. A 1.2-cm calcified granuloma just below the medial aspect of the right hemidiaphragm is unchanged from prior study. No pleural effusions or pulmonary edema. There is no pneumothorax. The inferior sternotomy wire is fractured but unchanged. Surgical clips and vascular markers in the thorax are related to prior CABG surgery.",
+      "generated_description": "The patient is status post median sternotomy and CABG. Heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. No focal consolidation, pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.",
+      "generated_labels": "The patient is status post median sternotomy and CABG. Heart size is normal. Mediastinal and hilar contours are unremarkable. Pulmonary vasculature is not engorged. Patchy opacities are noted in the lung bases, more pronounced on the left, which may reflect areas of atelectasis. No focal consolidation, pleural effusion or pneumothorax is present. No acute osseous abnormality is visualized."
+    },
+    {
+      "study_id": "s53492798",
+      "ground_truth": "Frontal and lateral radiographs of the chest redemonstrate a round calcified pulmonary nodule in the posterior right lung base, unchanged from multiple priors and consistent with prior granulomatous disease. A known enlarged right hilar lymph node seen on CT of ___ likely accounts for the increased opacity at the right hilum. A known right mediastinal lymph node conglomerate accounts for the fullness at the right paratracheal region. No pleural effusion, pneumothorax or focal consolidation is present. The patient is status post median sternotomy and CABG with wires intact. The cardiac silhouette is normal in size. The mediastinal and hilar contours are unchanged from the preceding radiograph.",
+      "generated_description": "Theones\n\u6781\n\u6781\n\u6781A:\u6781A\u6781\n\u6781\n\u6781\n kre\n\u6781\n\u6781\n kre\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\nA: (\u6781\nA\u6781\nA\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\n\u6781\nA\u6781\n\u6781\n\u6781\nA\ufffd\nA\ufffd\nA\u6781\n\u6781\n\u6781\nA\u6781\nA\u6781\nA\ufffd\n\u6781\nA\ufffd\nA\ufffd\nA: 3D- __\nA lateral\nA few\nA\ufffd\nA 3Dise\nA\ufffd\nA:A: (A few\nA\ufffd\nA lateral\nA lateral\nA p\n\nAIC\n\n\n    ___",
+      "generated_labels": "The patient is status post median sternotomy and CABG. The cardiac and mediastinal silhouettes are stable. No focal consolidation is seen. There is no pleural effusion or pneumothorax."
+    },
+    {
+      "study_id": "s57379357",
+      "ground_truth": "Frontal and lateral views of the chest were obtained. Rounded calcified nodule in the region of the posterior right lung base is seen and represents calcified granuloma on CTs dating back to ___, likely secondary to prior granulomatous disease. Previously seen pretracheal lymph node conglomerate and right hilar lymph nodes are better seen/evaluated on CT. No focal consolidation is seen. There is no pleural effusion or pneumothorax. Cardiac and mediastinal silhouettes are stable with possible slight decrease in right paratracheal prominence.",
+      "generated_description": "The patient is status post median sternotomy and CABG. Heart size is normal. Mediastinal and hilar contours are unremarkable. Pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is present. No acute osseous abnormality is visualized.",
+      "generated_labels": "The patient is status post median sternotomy and CABG. Heart size is normal. Mediastinal and hilar contours are unremarkable. Pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is present. No acute osseous abnormality is visualized."
+    },
+    {
+      "study_id": "s50239281",
+      "ground_truth": "Left PICC tip is seen terminating in the region of the distal left brachiocephalic vein. Tracheostomy tube is in unchanged standard position. The heart is moderately enlarged. Marked calcification of the aortic knob is again present. Mild pulmonary vascular congestion is similar. Bibasilar streaky airspace opacities are minimally improved. Previously noted left pleural effusion appears to have resolved. No pneumothorax is identified. Percutaneous gastrostomy tube is seen in the left upper quadrant.",
+      "generated_description": "Portable AP upright chest radiograph ___ at 13:45 is submitted.",
+      "generated_labels": "Portable AP upright chest radiograph was provided. A right IJ central venous catheter is seen with its tip in the region of the mid SVC. There is no pneumothorax. The lungs appear clear. The heart size cannot be assessed. The mediastinal contour is normal. Bony structures are intact."
+    },
+    {
+      "study_id": "s51513702",
+      "ground_truth": "Single AP portable view of the chest. No prior. The lungs are clear of large confluent consolidation. Cardiac silhouette enlarged but could be accentuated by positioning and relatively low inspiratory effort. Calcifications noted at the aortic arch. Degenerative changes noted at the glenohumeral joints bilaterally. Osseous and soft tissue structures otherwise unremarkable.",
+      "generated_description": "The heart is moderately enlarged. The mediastinal and hilar contours appear unchanged. There is no pleural effusion or pneumothorax. The lungs appear clear.",
+      "generated_labels": "The heart is moderately enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs appear clear."
+    },
+    {
+      "study_id": "s53452091",
+      "ground_truth": "A hazy opacity is present in the right lung which may represent aspiration, pleural effusion or hemorrhage. Retrocardiac opacity at the left base is unchanged. Moderate cardiomegaly is stable. Slight prominence of the pulmonary vasculature with cephalization and enlarged pulmonary arteries are consistent with mild pulmonary edema. Tracheostomy tube is in place. There are no displaced rib fractures.",
+      "generated_description": "Portable upright chest radiograph ___ at 13:45 is submitted.",
+      "generated_labels": "Portable upright chest radiograph ___ at 13:55 is submitted."
+    },
+    {
+      "study_id": "s54103072",
+      "ground_truth": "Bedside upright AP radiograph of the chest demonstrates little interval change when compared to prior study performed 24 hours ago. There is minimal, stable enlargement of the cardiomediastinal contours consistent with mild chronic heart failure. Persistent obscuration of the pulmonary vascular markings in the right lung base is consistent with trace pulmonary edema. Bibasilar atelectasis is still present. The lungs are otherwise clear. There is no pneumothorax or pleural effusion. A left internal jugular central venous catheter, an endotracheal tube, and an orogastric tube are unchanged and appropriately positioned. The chronic findings of atherosclerotic calcification of the aortic arch and bilateral glenohumeral joint degenerative changes are once again noted.",
+      "generated_description": "The ET tube is 4.5 cm above the carina. The NG tube is in the stomach. The lungs are clear. The heart size is normal. The mediastinal contours are normal. There are no pleural effusions. No pneumothorax is seen.",
+      "generated_labels": "The ET tube is 4.5 cm above the carina. The NG tube is in the stomach. The lungs are clear. The heart size is normal. The mediastinal contours are normal. There are no pleural effusions. No pneumothorax is seen."
+    },
+    {
+      "study_id": "s54137212",
+      "ground_truth": "Single portable view of the chest is compared to previous exam from ___. Tracheostomy tube is again noted. Left PICC tip is not clearly delineated on the current exam. Again there is mild pulmonary vascular congestion. Streaky opacities at the lung bases suggestive of atelectasis; however infection cannot be excluded. Cardiomediastinal silhouette is stable as are the osseous and soft tissue structures.",
+      "generated_description": "The right-sided PICC line is unchanged in position. The tip of the left-sided PICC line is not visualized. The cardiomediastinal silhouette is unchanged. There is no pneumothorax. There is no pleural effusion. There is no focal consolidation.",
+      "generated_labels": "The right-sided PICC line is unchanged in position. The tip of the left-sided PICC line is not visualized. The cardiomediastinal silhouette is unchanged. There is no pneumothorax. There is no pleural effusion. There is no focal consolidation."
+    },
+    {
+      "study_id": "s57765703",
+      "ground_truth": "Portable AP chest radiograph is obtained with the patient in the semi-erect position. Tracheostomy noted. Cardiomediastinal silhouette is unchanged; bulging of the pulmonary outflow tract reflects enlargement of pulmonary arteries and suggests underlying pulmonary arterial hypertension. Pulmonary edema has slightly improved compared to the prior study. Small right pleural effusion is unchanged. Again bibasilar opacifications are noted and are suggestive of atelectasis or consolidation.",
+      "generated_description": "There is a right-sided PICC line which terminates in the mid SVC. There is a right-sided chest tube which terminates in the right apex. There is a small right-sided pneumothorax. There is a small right-sided pleural effusion. There is a small left-sided pleural effusion. There is a left-sided chest tube which terminates in the left apex. There is a right-sided chest tube which terminates in the right apex. There is a right-sided subclavian line which terminates in the mid SVC. There is a right-sided PICC line which terminates in the mid SVC. There is a left-sided PICC line which terminates in the mid SVC. There is a right-sided subclavian line which terminates in the mid SVC. There is a left-sided subclavian line which terminates in the mid SVC. There is a right-sided IJ which terminates in the mid SVC. There is a left-sided IJ which terminates in the mid SVC. There is a right-sided subclavian line which terminates in the mid SVC. There is a left-sided subclavian line which terminates in the mid SVC. There is a right-sided PICC line which terminates in the mid SVC. There is a left-sided PICC line which terminates in the mid SVC. There is a right-sided subclavian line which terminates in the mid SVC. There is a left-sided subclavian line which terminates in the mid SVC. There is a right-sided IJ which terminates in the mid SVC. There is a left-sided IJ which terminates in the mid SVC. There is a right-sided PICC line which terminates in the mid SVC. There is a left-sided PICC line which terminates in the mid SVC. There is a right-sided subclavian line which terminates in the mid SVC. There is a left-sided subclavian line which terminates in the mid SVC. There is a right-sided IJ which terminates in the mid SVC. There is a left-sided IJ which terminates in the mid SVC. There is a right-sided PICC line which terminates in the mid SVC. There is a left-sided PICC line which terminates in the mid SVC. There is a right-sided subclavian line which terminates in the mid SVC. There is a left-sided subclavian line which terminates in the mid SVC. There is a right-sided IJ which terminates in the mid SVC. There is a left-sided IJ which terminates in the mid SVC. There is a right-sided PICC line which terminates in the mid SVC",
+      "generated_labels": "There is a right-sided PICC line which terminates in the mid SVC. There is a right-sided chest tube which terminates in the right apex. There is a small right-sided pneumothorax. There is a small right-sided pleural effusion. There is a small left-sided pleural effusion. There is a left-sided chest tube which terminates in the left apex. There is a right-sided chest tube which terminates in the right apex. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right-sided subcutaneous air collection. There is a left-sided subcutaneous air collection. There is a right"
+    },
+    {
+      "study_id": "s57976739",
+      "ground_truth": "An endotracheal tube, NG tube, and right upper extremity PICC with its tip at the cavoatrial junction are unchanged. There is no change in left lower lobe opacity. There is no large pleural effusion, or pneumothorax. The cardiac silhouette remains moderately enlarged, mediastinal contours are notable for calcification of the aortic arch.",
+      "generated_description": "The endotracheal tube is in appropriate position. The enteric tube is in appropriate position. The left subclavian line is in appropriate position. The right subclavian line is in appropriate position. The right PICC line is in appropriate position. The left pleural effusion is unchanged. The right pleural effusion is slightly decreased. The left lung is clear. The right lung is clear. The cardiomediastinal silhouette is stable.",
+      "generated_labels": "The endotracheal tube is in appropriate position. The enteric tube is in appropriate position. The left subclavian line is in appropriate position. The right subclavian line is in appropriate position. The right PICC line is in appropriate position. The left pleural effusion is unchanged. The right pleural effusion is slightly decreased. The left lung is clear. The right lung is clear. The cardiomediastinal silhouette is stable."
+    },
+    {
+      "study_id": "s59301985",
+      "ground_truth": "Single AP portable chest radiograph is obtained. Tracheostomy tube is present. There is no pneumothorax or pleural effusion. There is a hazy veil-like opacity in the right upper lung zone which may be consolidation, atelectasis or artifact. Heart size appears enlarged; however, this may be technical due to AP view. Bony structures are intact.",
+      "generated_description": "The tip of the endotracheal tube projects over the mid thoracic trachea. A gastric tube extends into the stomach. The tip of the right PICC line projects over the mid SVC. The size of the cardiac silhouette is enlarged but unchanged. There is mild pulmonary vascular congestion. No pleural effusion or pneumothorax is identified.",
+      "generated_labels": "The tip of the endotracheal tube projects over the mid thoracic trachea. A gastric tube extends into the stomach. The tip of the right PICC line projects over the mid SVC. The size of the cardiac silhouette is enlarged but unchanged. There is mild pulmonary vascular congestion. No pleural effusion or pneumothorax is identified."
+    },
+    {
+      "study_id": "s53183707",
+      "ground_truth": "The lungs are clear bilaterally with no areas of focal consolidation. There is no pleural effusion or pneumothorax. Patient is status post CABG. Cardiomegaly is stable. Mediastinal silhouette is within normal limits.",
+      "generated_description": "The patient is status post median sternotomy and CABG. The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. No focal consolidation, pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.",
+      "generated_labels": "The patient is status post median sternotomy and CABG. The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. No focal consolidation, pleural effusion or pneumothorax is present. There are no acute osseous abnormalities."
+    }
+  ],
+  "metrics": {
+    "lexical_metrics": {
+      "BLEU-1": 0.19703389830508475,
+      "BLEU-2": 0.0884429827561634,
+      "BLEU-3": 0.04381752836077069,
+      "BLEU-4": 0.02242354190122284,
+      "CIDEr": 0.03061859438268565,
+      "ROUGE-1": 0.2015407013240786,
+      "ROUGE-2": 0.03615662725654218,
+      "ROUGE-L": 0.1933784947323304
+    },
+    "classification_metrics": {
+      "ce_precision_macro": 0.07142857142857142,
+      "ce_recall_macro": 0.07142857142857142,
+      "ce_f1_macro": 0.07142857142857142,
+      "ce_precision_micro": 0.3333333333333333,
+      "ce_recall_micro": 0.20000000000000004,
+      "ce_f1_micro": 0.25,
+      "ce_precision_example": 0.25,
+      "ce_recall_example": 0.125,
+      "ce_f1_example": 0.16666666666666666,
+      "ce_num_examples": 4.0
+    },
+    "semantic_metrics": {
+      "cxr_bert_metric": 0.40567636624392533
+    }
+  }
+}
